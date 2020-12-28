@@ -5,3 +5,4 @@ plotly==4.13.0
 matplotlib==3.2.2
 hiplot==0.1.21
 scipy==1.5.0
+statsmodels==0.11.1
